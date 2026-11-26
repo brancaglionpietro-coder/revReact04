@@ -23,6 +23,8 @@
     width: 100%;
     filter: grayscale(1);
     transition: all 200ms ease-in;
+    width: 340px;
+    height: 400px;
 }
 
 .wrapCardTexts{
