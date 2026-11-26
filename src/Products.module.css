@@ -1,0 +1,19 @@
+.wrapProducts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    min-height: 100vh;
+    height: auto;
+}
+
+.card{
+    box-shadow: var(--sombra);
+    width: 300px;
+    height: 400px;
+}
+
+.imagem{
+    width: 100%;
+}

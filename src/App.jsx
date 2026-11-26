@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
 import s from './App.module.css'
 import { Menu } from './components/menu'
-import bannerImg from '/bannerImg.webp'
+import beligol from '/beligol.jpg'
 
 import "leaflet/dist/leaflet.css";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
@@ -23,7 +23,7 @@ function App() {
 
         <div className={s.section1}>
           <div className={s.wrapImage}>
-            <img className={s.imgSection1} src={bannerImg} alt="banner" />
+            <img className={s.imgSection1} src={beligol} alt="beligol" />
           </div>
 
           <div className={s.wrapTexts}>

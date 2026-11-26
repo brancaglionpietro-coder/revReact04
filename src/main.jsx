@@ -5,6 +5,7 @@ import './index.css'
 import App from './App.jsx'
 import Charts from './Charts.jsx';
 import Contact from './Contact.jsx';
+import Products from './Products.jsx';
 
 const router = createBrowserRouter([
   {
@@ -15,11 +16,16 @@ const router = createBrowserRouter([
     path: "/charts",
     element:<Charts/>,
   },
-    {
+  {
     path: "/contact",
     element:<Contact/>,
   },
+  {
+    path: "/product",
+    element:<Products/>,
+  },
 ]);
+
 
 createRoot(document.getElementById('root')).render(
  <RouterProvider router={router} />,

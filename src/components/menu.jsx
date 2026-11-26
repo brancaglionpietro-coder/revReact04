@@ -6,7 +6,7 @@ export const Menu = () => {
         <nav className={s.menu}>
             <Link to="/">Home</Link>
             <Link to="/charts">Gráficos</Link>
-            <Link to="">Produtos</Link>
+            <Link to="/product">Produtos</Link>
             <Link to="/contact">Contato</Link>
         </nav>
     )
