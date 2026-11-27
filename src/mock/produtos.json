@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "imagem": "/neymar.jpg",
+        "titulo": "Neymar",
+        "texto": "O NEYMÁ"
+    },
+    {
+        "id": "02",
+        "imagem": "/mbappe.jpg",
+        "titulo": "Mbappé",
+        "texto": "Tartaruga ninja"
+    },
+    {
+        "id": "03",
+        "imagem": "/vini.jpg",
+        "titulo": "Vinícius Jr 67",
+        "texto": "Vini six seven"
+    },
+    {
+        "id": "04",
+        "imagem": "/cr7.jpg",
+        "titulo": "Cr7",
+        "texto": "SIUUUUU"
+    },
+    {
+        "id": "05",
+        "imagem": "/cherkii.webp",
+        "titulo": "Cherki",
+        "texto": "Aura farmer"
+    },
+    {
+        "id": "06",
+        "imagem": "/renanzinhocaliel.avif",
+        "titulo": "Renan Santos",
+        "texto": "14"
+    },
+    {
+        "id": "07",
+        "imagem": "/ancara.jpg",
+        "titulo": "Messi",
+        "texto": "Ancara messi"
+    },
+    {
+        "id": "08",
+        "imagem": "/goat.jpg",
+        "titulo": "The Goat",
+        "texto": "O maior de todos!"
+    }
+]

@@ -25,6 +25,7 @@
     transition: all 200ms ease-in;
     width: 340px;
     height: 400px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .wrapCardTexts{
